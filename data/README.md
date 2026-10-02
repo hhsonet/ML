@@ -7,7 +7,6 @@ This folder contains datasets used by, or historically uploaded with, the ML cou
 | `ml_dp_l_e_v_4_2.csv` | 4,624 rows × 29 columns, with header | Encoded student-outcome dataset used by the dropout-classification notebook. |
 | `dp_label.csv` | 4,624 rows × 29 columns, with header | Human-readable/categorical version of the student-outcome data. |
 | `ml_csv_3.csv` | 4,624 rows × 29 columns, no header | Earlier/raw variant of the same student-outcome dataset. |
-| `cgpa.csv` | 659 values + header (`T`) | Standalone CGPA values; no notebook in the current repo directly documents its use. |
 
 ## Student dataset columns
 

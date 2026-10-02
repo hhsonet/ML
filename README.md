@@ -36,7 +36,6 @@ ML/
 ├── basic/
 ├── data/
 │   ├── README.md
-│   ├── cgpa.csv
 │   ├── dp_label.csv
 │   ├── ml_csv_3.csv
 │   └── ml_dp_l_e_v_4_2.csv
